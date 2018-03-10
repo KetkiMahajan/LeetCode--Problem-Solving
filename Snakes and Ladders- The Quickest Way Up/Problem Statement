@@ -9,5 +9,4 @@ Rules
 3-If a person reaches a square which is the base of a ladder, (s)he has to climb up that ladder, and he cannot come down on it. If a person reaches a square which has the mouth of the snake, (s)he has to go down the snake and come out through the tail - there is no way to climb down a ladder or to go up through a snake.
 
 Constraints
-
 The board is always of the size 10*10 and Squares are always numbered 1 to 100.
